@@ -1,0 +1,4 @@
+#Tue Oct 23 12:26:45 EDT 2018
+base.0=C\:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

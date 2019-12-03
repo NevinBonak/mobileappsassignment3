@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "8,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "347,638",
+                        "endLines": "14,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "633,793"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "58,103,301",
+                        "endLines": "3,7,8",
+                        "endColumns": "43,72,50",
+                        "endOffsets": "97,295,347"
+                    },
+                    "to": {
+                        "startLines": "2,3,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,99,296",
+                        "endLines": "2,6,7",
+                        "endColumns": "43,72,50",
+                        "endOffsets": "94,291,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

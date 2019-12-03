@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tester.xml.flat",
+        "source": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\src\\main\\res\\layout\\activity_tester.xml"
+    },
+    {
+        "merged": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_tester.xml.flat",
+        "source": "C:\\Users\\nevinbonak\\OneDrive - Landmark College\\mobile\\assignment 3 files\\ch11_ex1_Tester\\app\\src\\main\\res\\menu\\activity_tester.xml"
+    }
+]
